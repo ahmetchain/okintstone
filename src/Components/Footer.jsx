@@ -56,7 +56,8 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://wa.me/905394327006"
+                  target="_blank"
                   className="hover:text-gray-300 transition duration-300"
                 >
                   Contact
@@ -71,10 +72,10 @@ export default function Footer() {
               <li className="flex items-center space-x-2">
                 <FaPhone className="text-gray-400" />
                 <a
-                  href="tel:+905333709349"
+                  href="tel:+905394327006"
                   className="hover:text-gray-300 transition duration-300"
                 >
-                  +90 533 370 93 49
+                  +90 539 432 70 06
                 </a>
               </li>
               <li className="flex items-center space-x-2">
@@ -88,7 +89,10 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <FaMapMarkerAlt className="text-gray-400" />
-                <p>Seyhan, 643. Sk. no:27/2, 35380 Buca/İzmir, Turkey</p>
+                <p>
+                  Kurtköy Mahallesi, Ankara Caddesi, Kapı No:289/21 Yelken Plaza
+                  - Pendik / İstanbul
+                </p>
               </li>
             </ul>
           </div>
@@ -105,7 +109,7 @@ export default function Footer() {
                 <FaInstagram />
               </a>
               <a
-                href="#"
+                href="https://wa.me/905394327006"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl hover:text-green-500 transition duration-300"
@@ -113,7 +117,7 @@ export default function Footer() {
                 <FaWhatsapp />
               </a>
               <a
-                href="#"
+                href="https://www.google.com/maps/place/Yelken+Plaza/@40.9107789,29.2971253,17z/data=!3m1!4b1!4m6!3m5!1s0x14cada4be6c85f6b:0xfd1971b61a6163b!8m2!3d40.9107789!4d29.2971253!16s%2Fg%2F1hc4k95tc?entry=ttu&g_ep=EgoyMDI0MTAwMS4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl hover:text-blue-500 transition duration-300"
@@ -122,7 +126,7 @@ export default function Footer() {
               </a>
             </div>
             <a
-              href="#"
+              href="https://wa.me/905394327006"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-2 bg-white text-gray-900 font-bold rounded-full hover:bg-gray-200 transition duration-300 text-sm"
