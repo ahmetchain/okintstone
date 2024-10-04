@@ -10,9 +10,10 @@ import Marble2 from "./Assets/Marble2.jpg";
 import Marble3 from "./Assets/Marble3.webp";
 import Marble4 from "./Assets/Marble4.jpg";
 import InfiniteCarousel from "./Components/InfiniteSlider";
+import FooterMarble from "./Assets/FooterMarble.webp"
 import Footer from "./Components/Footer";
 function App() {
-  const images = [Marble1, Marble2, Marble3, Marble4];
+  const images = [FooterMarble, Marble2, Marble3, Marble4];
   return (
     <>
       <div className="h-screen">
@@ -25,22 +26,26 @@ function App() {
               " At OKINT Stone, we take pride in being a reliable source of high-quality marble and natural stones. Our products are crafted to seamlessly meet the needs of construction and design projects, adding beauty and value with every slab, granite, and flooring solution."
             }
           />
-          <SectionHeader bg={true} text="HİZMETLERİMİZ" />
+          <SectionHeader
+            bg={true}
+            text="OUR SERVICES
+"
+          />
           <FeatureSections
             Img={Marble}
             Title={" High-Quality Marble for Lasting Impressions"}
             Paragraph={
               " Our carefully selected marble is the perfect blend of beauty and durability. Enhance the aesthetics of your space with our premium-quality stones, ensuring lasting elegance for every project."
             }
-            Button={"İletişime Geçin"}
-          />
+            Button={"Contact Us"}
+            />
           <FeatureSections
             Img={Banner}
             Title={" Expertly Crafted Natural Stone Solutions"}
             Paragraph={
               " OKINT Stone offers a wide range of natural stone products tailored to meet the needs of architects and designers. From stunning slabs to elegant flooring, we provide solutions that add value and sophistication to any space."
             }
-            Button={"İletişime Geçin"}
+            Button={"Contact Us"}
             Reverse={true}
             bg={true}
           />
