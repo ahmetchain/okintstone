@@ -11,11 +11,7 @@ export default function Header() {
           <li className=" cursor-pointer text-[11px] md:text-sm lg:text-base font-semibold text-black">
             ANASAYFA
           </li>
-          <a href="https://www.instagram.com/klarkoltuk/" target="_blank">
-            <li className=" flex items-center cursor-pointer text-[11px] md:text-sm lg:text-base font-semibold text-black opacity-80">
-              INSTAGRAM
-            </li>
-          </a>
+    
           <a href="https://wa.me/905333709349" target="_blank">
             <li className=" flex items-center cursor-pointer  text-[11px] md:text-sm lg:text-base font-semibold text-black opacity-80">
               İLETİŞİM

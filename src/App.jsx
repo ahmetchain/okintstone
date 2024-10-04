@@ -20,29 +20,25 @@ function App() {
         <HeroSection />
         <div className="px-20 flex flex-col gap-y-20 mb-20">
           <AboutSection
-            title={" Evinizin Konforunu Yeniden Tasarlıyoruz"}
+            title={" Nature's Elegance Perfectly Crafted for Your Projects"}
             paragraph={
-              " Klar Koltuk olarak, Koltuk Yenileme ve Döşeme, İskelet Yenileme, KoltukTamiri, Mobilya Boyama ve Kişiye Özel Tasarım hizmetlerimizle eski mobilyalarınızı hayalinizdeki tasarıma kavuşturuyor, evinizin tarzına en uygun çözümleri sunuyoruz. Hemen web sitemizi keşfedin, kaliteyi yakından deneyimleyin"
+              " At OKINT Stone, we take pride in being a reliable source of high-quality marble and natural stones. Our products are crafted to seamlessly meet the needs of construction and design projects, adding beauty and value with every slab, granite, and flooring solution."
             }
           />
           <SectionHeader bg={true} text="HİZMETLERİMİZ" />
           <FeatureSections
             Img={Marble}
-            Title={
-              " Koltuklarınızı Modernleştirirken, Anılarınızı Özenle Koruyoruz."
-            }
+            Title={" High-Quality Marble for Lasting Impressions"}
             Paragraph={
-              " Yıpranmış ve eski koltuklarınızı alıp adeta yenilenmiş bir şekilde geri getiriyoruz. Bu sayede mobilyalarınızın ömrünü uzatırken, yeni alım masraflarından da kaçınmanızı sağlıyoruz. Uzman ekibimiz, ihtiyaçlarınıza en uygun çözümleri sunarak hem konforunuzu hem de bütçenizi korur."
+              " Our carefully selected marble is the perfect blend of beauty and durability. Enhance the aesthetics of your space with our premium-quality stones, ensuring lasting elegance for every project."
             }
             Button={"İletişime Geçin"}
           />
           <FeatureSections
             Img={Banner}
-            Title={
-              " Koltuklarınızı Modernleştirirken, Anılarınızı Özenle Koruyoruz."
-            }
+            Title={" Expertly Crafted Natural Stone Solutions"}
             Paragraph={
-              " Yıpranmış ve eski koltuklarınızı alıp adeta yenilenmiş bir şekilde geri getiriyoruz. Bu sayede mobilyalarınızın ömrünü uzatırken, yeni alım masraflarından da kaçınmanızı sağlıyoruz. Uzman ekibimiz, ihtiyaçlarınıza en uygun çözümleri sunarak hem konforunuzu hem de bütçenizi korur."
+              " OKINT Stone offers a wide range of natural stone products tailored to meet the needs of architects and designers. From stunning slabs to elegant flooring, we provide solutions that add value and sophistication to any space."
             }
             Button={"İletişime Geçin"}
             Reverse={true}

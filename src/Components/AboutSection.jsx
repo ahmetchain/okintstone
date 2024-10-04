@@ -8,7 +8,7 @@ export default function AboutSection({title, paragraph}) {
           <h4 className="text-[#9e9ea0]">Hakkımızda</h4>
           <div className="bg-[#9e9ea0] px-10 h-1"></div>
         </div>
-        <h1 className="text-4xl md:text-6xl font-semibold w-full md:w-[320px]">
+        <h1 className="text-4xl md:text-6xl font-semibold w-full md:w-[500px]">
          {title}
         </h1>
       </div>
