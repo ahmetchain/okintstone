@@ -12,7 +12,8 @@ export default function Header() {
             HOME
           </li>
     
-          <a href="https://wa.me/905394327006" target="_blank">
+          <a             href="https://wa.me/905396969720"
+ target="_blank">
             <li className=" flex items-center cursor-pointer  text-[11px] md:text-sm lg:text-base font-semibold text-black opacity-80">
               CONTACT
             </li>

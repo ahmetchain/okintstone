@@ -26,7 +26,7 @@ export default function FeatureSections({
             {Paragraph}
           </p>
           <a
-            href="https://wa.me/905394327006"
+            href="https://wa.me/905396969720"
             target="_blank"
             className=" cursor-pointer inline-flex text-sm px-4 py-2 md:px-8 md:py-4 md:text-lg  xl:text-lg xl:px-6 xl:py-3 desktop_table:px-5 deskto_table:py-2.5   mt-5 rounded-full font-semibold desktop:px-8 desktop:py-4 border-black border-2    hover:bg-black/20 hover:border-white  desktop:text-xl"
           >

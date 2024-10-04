@@ -56,7 +56,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://wa.me/905394327006"
+                  href="https://wa.me/905396969720"
                   target="_blank"
                   className="hover:text-gray-300 transition duration-300"
                 >
@@ -72,10 +72,10 @@ export default function Footer() {
               <li className="flex items-center space-x-2">
                 <FaPhone className="text-gray-400" />
                 <a
-                  href="tel:+905394327006"
+                  href="tel:+905396969720"
                   className="hover:text-gray-300 transition duration-300"
                 >
-                  +90 539 432 70 06
+                  +90 539 696 97 20
                 </a>
               </li>
               <li className="flex items-center space-x-2">
@@ -109,7 +109,7 @@ export default function Footer() {
                 <FaInstagram />
               </a>
               <a
-                href="https://wa.me/905394327006"
+                href="https://wa.me/905396969720"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl hover:text-green-500 transition duration-300"
@@ -126,7 +126,7 @@ export default function Footer() {
               </a>
             </div>
             <a
-              href="https://wa.me/905394327006"
+              href="https://wa.me/905396969720"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-2 bg-white text-gray-900 font-bold rounded-full hover:bg-gray-200 transition duration-300 text-sm"

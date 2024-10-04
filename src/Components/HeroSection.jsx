@@ -20,7 +20,7 @@ export default function HeroSection({ scroll }) {
         <nav className="flex items-center justify-center gap-x-8 md:gap-x-20 md:mt-5">
           <a
             className="rounded-full text-nowrap font-semibold px-3 text-xs py-2.5 sm:px-6 sm:py-4 md:px-8 md:py-5 bg-black/70 md:font-normal tracking-tight hover:bg-black/50 text-white md:text-xl"
-            href="https://wa.me/905394327006"
+            href="https://wa.me/905396969720"
             target="_blank"
           >
             Contact Us Now
