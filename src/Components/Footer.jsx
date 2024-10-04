@@ -89,10 +89,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <FaMapMarkerAlt className="text-gray-400" />
-                <p>
-                  Istanbul Office: Kurtköy Mahallesi, Ankara Caddesi, Kapı
-                  No:289/21 Yelken Plaza - Pendik / İstanbul
-                </p>
+                <p>Istanbul Office: Yelken Plaza 289/21, Pendik, Istanbul</p>
               </li>
               <li className="flex items-center space-x-2">
                 <FaMapMarkerAlt className="text-gray-400" />
