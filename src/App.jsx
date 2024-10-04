@@ -34,7 +34,7 @@ function App() {
           <div ref={servicesRef}>
             <SectionHeader
               bg={true}
-              text="OUR SERVICES
+              text="OUR PRODUCTS
 "
             />
           </div>

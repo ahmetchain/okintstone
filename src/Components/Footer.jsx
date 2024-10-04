@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-xl font-semibold text-white">Quick Links</h3>
             <ul className="space-y-2 text-sm">
-              <li>
+              {/* <li>
                 <a
                   href="#"
                   className="hover:text-gray-300 transition duration-300"
@@ -53,7 +53,7 @@ export default function Footer() {
                 >
                   Gallery
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
                   href="https://wa.me/905396969720"
@@ -90,9 +90,20 @@ export default function Footer() {
               <li className="flex items-center space-x-2">
                 <FaMapMarkerAlt className="text-gray-400" />
                 <p>
-                  Kurtköy Mahallesi, Ankara Caddesi, Kapı No:289/21 Yelken Plaza
-                  - Pendik / İstanbul
+                  Istanbul Office: Kurtköy Mahallesi, Ankara Caddesi, Kapı
+                  No:289/21 Yelken Plaza - Pendik / İstanbul
                 </p>
+              </li>
+              <li className="flex items-center space-x-2">
+                <FaMapMarkerAlt className="text-gray-400" />
+                <p>
+                  Afyon Office: Gunes Hatun Cd. No:33, Matyar Suit,
+                  Afyonkarahisar
+                </p>
+              </li>
+              <li className="flex items-center space-x-2">
+                <FaMapMarkerAlt className="text-gray-400" />
+                <p>Usak Office: 204. Cadde No:566 Tekstil OSB., Uşak</p>
               </li>
             </ul>
           </div>

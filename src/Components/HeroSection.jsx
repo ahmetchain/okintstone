@@ -4,7 +4,7 @@ import Banner from "../Assets/herosection.webp";
 export default function HeroSection({ scroll }) {
   return (
     <main className="relative w-full h-[calc(100%-100px)] rounded-lg mb-20">
-      <div className="absolute w-[calc(100%-10px)] mx-auto inset-0 bg-gradient-to-b from-black/70 to-transparent rounded-lg"></div>
+      <div className="absolute w-[calc(100%-10px)] mx-auto inset-0 bg-gradient-to-b from-black/80 to-transparent rounded-lg"></div>
       <img
         loading="lazy"
         src={Banner}
@@ -12,7 +12,7 @@ export default function HeroSection({ scroll }) {
       />
       <div className="absolute w-[350px] -translate-y-1/2 top-[38%] md:top-[40%] -translate-x-1/2 left-1/2 md:w-[750px]">
         <h1 className="text-[40px] font-bold text-center text-white">
-          OKIN STONE
+          OKINT STONE
         </h1>
         <h1 className="text-[25px] sm:text-3xl md:text-5xl text-white text-center mt-6 mb-6 sm:mt-8 sm:mb-8 md:mt-10 md:mb-10 font-thin">
           High-quality marble and natural stones for your vision.
@@ -23,13 +23,13 @@ export default function HeroSection({ scroll }) {
             href="https://wa.me/905396969720"
             target="_blank"
           >
-            Contact Us Now
+            Contact Us
           </a>
           <a
             onClick={scroll}
             className="cursor-pointer rounded-full sm:px-6 font-semibold sm:py-4 text-xs md:px-8 px-3 py-2.5 md:py-5 text-nowrap bg-black/70 md:font-normal tracking-tight hover:bg-black/50 text-white md:text-xl"
           >
-            Explore Our Services
+            Explore Our Products
           </a>
         </nav>
       </div>
