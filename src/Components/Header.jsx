@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../Assets/okintlogo.png"
+import Logo from "../Assets/okintlogo.png";
 export default function Header() {
   return (
     <div className="py-5 border-black flex justify-between mx-auto items-center lg:px-32 md:px-16 px-4">
@@ -11,11 +11,15 @@ export default function Header() {
           <li className=" cursor-pointer text-[11px] md:text-sm lg:text-base font-semibold text-black">
             HOME
           </li>
-    
-          <a             href="https://wa.me/905396969720"
- target="_blank">
+
+          <a href="https://wa.me/905396969720" target="_blank">
             <li className=" flex items-center cursor-pointer  text-[11px] md:text-sm lg:text-base font-semibold text-black opacity-80">
               CONTACT
+            </li>
+          </a>
+          <a href="/catalog" target="_blank">
+            <li className=" flex items-center cursor-pointer  text-[11px] md:text-sm lg:text-base font-semibold text-black opacity-80">
+              CATALOG
             </li>
           </a>
         </ul>

@@ -63,6 +63,15 @@ export default function Footer() {
                   Contact
                 </a>
               </li>
+              <li>
+                <a
+                  href="/catalog"
+                  target="_blank"
+                  className="hover:text-gray-300 transition duration-300"
+                >
+                  Catalog
+                </a>
+              </li>
             </ul>
           </div>
 
